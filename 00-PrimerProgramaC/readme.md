@@ -1,1 +1,1 @@
-Descripocion del desarrollo del tp 0
+Este programa da la bienvenida al primer tp de la mataria SLL
